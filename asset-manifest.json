@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/giiphy-app/static/css/main.ff39920e.css",
+    "main.js": "/giiphy-app/static/js/main.7d9ac598.js",
+    "index.html": "/giiphy-app/index.html",
+    "main.ff39920e.css.map": "/giiphy-app/static/css/main.ff39920e.css.map",
+    "main.7d9ac598.js.map": "/giiphy-app/static/js/main.7d9ac598.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff39920e.css",
+    "static/js/main.7d9ac598.js"
+  ]
+}
